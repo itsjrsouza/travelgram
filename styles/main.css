@@ -2,12 +2,21 @@ main {
     display: flex;
     flex-wrap: wrap;
 
-    gap: 24px;
-    padding-block: 24px;
+    gap: 1.5rem;
+    /* padding-block: 24px; */
 }
 
 main img {
-    width: 286px;
-    height: 286px;
+    width: 20.5rem;
+    height: 20.5rem;
     object-fit: cover;
+}
+
+@media (width >=80em) {
+
+main img {
+    width: 17.875rem;
+    height: 17.875rem;
+    object-fit: cover;
+}
 }

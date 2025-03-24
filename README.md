@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto prático consistia em criar uma landpage de um ponto turistico. Havia o design pronto no #Figma e com base as aulas anteriores precisávamos tentar reproduzir-lo.
+O projeto prático consistia em criar o layout do perfil de uma rede social de fotos de viagem. Agora, elevemos ele para uma segunda etapa, deixando a página responsiva!
 
 - [Acesse o projeto finalizado](https://github.com/itsjrsouza/travelgram)
 
